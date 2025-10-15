@@ -1,0 +1,14 @@
+{
+  "name": "13.10.2025-nodejs",
+  "version": "1.0.0",
+  "description": "projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jezyk",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
